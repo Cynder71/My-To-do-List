@@ -1,3 +1,5 @@
 cynder\todo_list\App.class
+cynder\todo_list\Menu.class
+cynder\todo_list\TodoListMap.class
 module-info.class
 cynder\todo_list\SystemInfo.class
